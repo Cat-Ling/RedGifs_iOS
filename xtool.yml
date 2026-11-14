@@ -1,0 +1,5 @@
+version: 1
+bundleID: com.redgifs.pulse
+product: RedGIFsApp
+infoPath: RedGIFsApp-Info.plist
+iconPath: Resources/AppIcon.png
