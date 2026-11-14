@@ -1,4 +1,4 @@
-# RedGIFs for iOS
+# Pulse for iOS
 
 A lightweight, native iOS experience for browsing and watching RedGIFs.
 
@@ -20,4 +20,4 @@ Discover trending content, explore categories, search for creators, and enjoy an
 
 ### About
 
-RedGIFs brings the RedGIFs browsing experience to iOS in a compact, purpose-built application.
+Pulse brings the RedGIFs browsing experience to iOS in a compact, purpose-built application.
